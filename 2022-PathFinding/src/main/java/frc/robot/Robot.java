@@ -18,7 +18,7 @@ import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 
 public class Robot extends TimedRobot {
   
- String trajectoryJSON = "paths/2022-PathFinding.wpilib.json";
+  String trajectoryJSON = "paths/2022-PathFinding.wpilib.json";
 
   Trajectory trajectory = new Trajectory();
 
